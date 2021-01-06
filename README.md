@@ -1,5 +1,7 @@
 # Calendar
 
+<img src="https://github.com/matheusvalbert/Calendar/blob/main/dark.gif" width="300"/> <img src="https://github.com/matheusvalbert/Calendar/blob/main/white.gif" width="300"/>
+
 # Introdução
 
 Calendário Básico feito em Swift e SwiftUI, sem a utilização de dependências, feito apenas para entendimento da linguagem.
