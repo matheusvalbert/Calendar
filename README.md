@@ -12,3 +12,7 @@ O aplicativo é compatível com a interface light e dark, como pode ser observad
 
 - Xcode 12.3
 - iOS 14.3
+
+# Como utilizar
+
+Realizar o download do Xcode e do projeto, realizar a importação e escolher um iPhone para sua emulação.
