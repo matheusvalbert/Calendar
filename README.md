@@ -20,3 +20,4 @@ Existe um pequeno bug visual ao pressionar "OK" ou "Cancelar", ao inserir um nov
 # Modo de uso
 
 Realizar o download do Xcode e do projeto, realizar a importação e escolher um iPhone para sua emulação.
+Recomendado utilizar iphones com tela maior que 5 polegadas
