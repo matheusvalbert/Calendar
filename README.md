@@ -6,9 +6,11 @@
 
 Calendário Básico feito em Swift e SwiftUI, sem a utilização de dependências, feito apenas para entendimento da linguagem.
 
-Os dados armazenados no calendário não são persistentes, tudo será perdido ao fechar o Aplicativo.
+Os dados armazenados no calendário são armazenados utilizando Core Data.
 
 O aplicativo é compatível com a interface light e dark, como pode ser observado a cima.
+
+Existe um pequeno bug visual ao pressionar "OK" ou "Cancelar", ao inserir um novo evento.
 
 # Softwares utilizados
 
