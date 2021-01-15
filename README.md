@@ -4,7 +4,7 @@
 
 # Introdução
 
-Calendário Básico feito em Swift e SwiftUI, sem a utilização de dependências, feito apenas para entendimento da linguagem.
+Calendário Básico feito em Swift e SwiftUI 2.0, sem a utilização de dependências, feito apenas para entendimento da linguagem.
 
 Os dados armazenados no calendário são armazenados utilizando Core Data.
 
